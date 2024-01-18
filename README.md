@@ -2,6 +2,7 @@
 - 👀 I'm a passionate web developer with a keen interest in creating interactive and user-friendly web applications. My goal is to contribute to cutting-edge projects and collaborate with other developers to build meaningful solutions.
 - 🌱 I’m currently learning web development courses.
 - 🔧 Skills & Technologies
+  
     *Languages: HTML, CSS, JavaScript, PHP
   
     **Front-end: React
