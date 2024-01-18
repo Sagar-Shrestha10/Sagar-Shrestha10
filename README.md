@@ -3,17 +3,20 @@
 - 🌱 I’m currently learning web development courses.
 - 🔧 Skills & Technologies
   
-    *Languages: HTML, CSS, JavaScript, PHP
+      *Languages: HTML, CSS, JavaScript, PHP
   
-    **Front-end: React
+      **Front-end: React
   
-    **Back-end: .NET, Java
+      **Back-end: .NET, Java
   
-    **Database:  MySQL
+      **Database:  MySQL
 - 💞️  I'm always open to collaborating on interesting projects. Feel free to reach out if you want to chat or work together on something exciting!
 - 📫  Dhulikhel, Nepal
+- 
       Contact no.: 9813648218
+  
       LinkedIn: linkedin.com/in/sagar-shrestha-8b4001299
+  
       Gmail: sagarshrestha2056810@gmail.com
 - 😄 Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
 
