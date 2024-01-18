@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning web development courses.
 - 🔧 Skills & Technologies
     *Languages: HTML, CSS, JavaScript, PHP
+  
     **Front-end: React
+  
     **Back-end: .NET, Java
+  
     **Database:  MySQL
 - 💞️  I'm always open to collaborating on interesting projects. Feel free to reach out if you want to chat or work together on something exciting!
 - 📫  Dhulikhel, Nepal
