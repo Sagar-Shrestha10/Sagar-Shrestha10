@@ -5,9 +5,7 @@
   
   *Languages: HTML, CSS, JavaScript, PHP
   
-  **Front-end: React
-  
-  **Back-end: .NET, Java
+  **Front-end: React JS
   
   **Database:  MySQL
 - 💞️  I'm always open to collaborating on interesting projects. Feel free to reach out if you want to chat or work together on something exciting!
