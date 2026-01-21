@@ -10,6 +10,8 @@
   **Backend: Node Js, PHP
 
   **Basic UI/UX
+
+  **SEO and QA (Basic)
   
 - 💞️  I'm always open to collaborating on interesting projects. Feel free to reach out if you want to chat or work together on something exciting!
 - 📫  Dhulikhel, Nepal
