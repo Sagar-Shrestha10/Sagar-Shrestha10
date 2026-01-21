@@ -1,17 +1,22 @@
 - 👋 Hi, I’m Sagar Shrestha.
 - 👀 I'm a passionate web developer with a keen interest in creating interactive and user-friendly web applications. My goal is to contribute to cutting-edge projects and collaborate with other developers to build meaningful solutions.
-- 🌱 I’m currently learning web development courses.
+
 - 🔧 Skills & Technologies
   
-  *Languages: HTML, CSS, JavaScript, PHP
+  *Languages: HTML, CSS, JavaScript
   
   **Front-end: React JS
+
+  **Backend: Node Js, PHP
+
+  **Basic UI/UX
   
-  **Database:  MySQL
 - 💞️  I'm always open to collaborating on interesting projects. Feel free to reach out if you want to chat or work together on something exciting!
 - 📫  Dhulikhel, Nepal
 
   Contact no.: 9813648218
+
+  Portfolio: sagarshrestha-portfolio.netlify.app
   
   LinkedIn: linkedin.com/in/sagar-shrestha-8b4001299
   
